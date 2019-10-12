@@ -1,0 +1,30 @@
+﻿{
+  "Students": [
+    {
+      "ID": "1001",
+      "Name": "Jane Doe"
+    },
+    {
+      "ID": "1002",
+      "Name": "John Smith"
+    },
+    {
+      "ID": "1003",
+      "Name": "Im a Knight"
+    }
+  ],
+  "Courses": [
+    {
+      "Number": "12345",
+      "Name": "C# Game Programming"
+    },
+    {
+      "Number": "43211",
+      "Name": "Game Design Tools & Plugins"
+    },
+    {
+      "Number": "98765",
+      "Name": "Unity Game Development"
+    }
+  ]
+}
